@@ -1,3 +1,5 @@
+CREATE DATABASE ecommerce;
+ 
 CREATE TABLE categorias (
 	id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
 	categoria VARCHAR(50)

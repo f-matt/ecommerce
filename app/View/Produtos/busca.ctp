@@ -1,5 +1,3 @@
-<!-- File: /app/View/Produtos/add.ctp -->
-
 <table>
 	<tr>
 		<th>Código</th>
